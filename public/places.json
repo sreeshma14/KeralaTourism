@@ -1,0 +1,76 @@
+{
+    "places": [
+        {
+            "id": 1,
+            "name": "Kappad Beach",
+            "district": "Kozhikode",
+            "BestTime": "October to March",
+            "description":"Pondicherry is not the only seashore with European history, the Kappad Beach in Kerala is infamous for being the destination of Vasco Da Gama, the famous Portuguese explorer. It is the shore that made the explorer the first to reach India by sea. Today, Kappad is one of the most scenic beaches India has to offer. It is lined with palm trees and sedimentary rocks that decorate the shore and give any visitor a serene feeling. The idyllic beach is apt for rejuvenation of body and soul.",
+            "photograph": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/d5/18/2b/psx-20170319-125048-largejpg.jpg?w=1200&h=-1&s=1"
+        },
+        {
+            "id": 2,
+            "name": "Varkala",
+            "BestTime":"Throughout the year",
+            "district": "Kollam",
+            "description":"Varkala is a coastal town in the southern part of Kerala known for the unique 15m high 'Northern Cliff' adjacent to the Arabian Sea. It is popular for its hippie culture, shacks on the cliff serving great seafood and playing global music and the samadhi of Kerala's saint Sree Narayana Guru. Varkala is also known for Jardana Swami Temple, also known as Dakshin Kashi.",
+            "photograph": "https://www.holidify.com/images/bgImages/VARKALA.jpg"
+        },
+        {
+            "id":3 ,
+            "name": "Munnar",
+            "BestTime":"September to May",
+            "district":"Idukki",
+            "description":"Famous for the tea estates, greenery, winding roads, blanket of mist, and viewpoints, Munnar is a hill station in Kerala, located in the Idukki district. Lying in the Western Ghats at 1600 metres, it is one of the most sought after and visited travel destinations globally, especially popular amongst honeymooners",
+            "photograph": "https://www.holidify.com/images/bgImages/MUNNAR.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Alleppey",
+            "BestTime":"June to March",
+            "district":"Alappuzha",
+            "description":"With emerald green waters flanked by lush vegetation, Kumarakom is an enchanting backwater destination situated 16km away from Kottayam in Kerala. Lying on the banks of Vembanad Lake, Kerala's largest lake, Kumarakom is a cluster of small human-made islands reclaimed from the lake.",
+            "photograph": "https://www.holidify.com/images/bgImages/ALLEPPEY.jpg"
+        },
+        {
+            "id":5 ,
+            "name": "Kochi",
+            "BestTime":"July to April",
+            "district":"Ernakulam",
+            "description":"Lying on the Malabar coast in the southwest of India, Kochi or Cochin is a port city with a trading history that dates back to at least 600 years. Known popularly as the Queen of the Arabian Sea, the city is also Kerala's financial, commercial, and industrial capital. Exuding an old-world charm with diverse linguistics, such as the Jews, Konkinis, Gujaratis, and ethnic communities like the anglo-indians, Kochi has an indiscriminate mix of backwaters, beaches, islands, coasts, and plain terrain .With a history of trading in the southwest, Kochi still holds on to its dutch and Portuguese buildings, such as the Old Harbour House, Mattancherry Palace, Bolgatty Palace , Jewish Synagogue, etc., some of which have gone through renovations over the years. The cosmopolitan town has upmarket stores, art galleries, heritage homes, and some of the finest museums, such as the Hill Palace and Kerala Folklore Museum.In a true vintage-meets-future fashion, restaurants and shopping hubs crowd Ernakulam, Jew Town, and Fort Kochi, along with palaces, beaches, temples, and heritage sites. Besides sightseeing, Kochi is a sought-after tourist destination for its Ayurvedic Massages and a must-visit place to witness performances such as the Kalarippayattu, an aesthetic martial art form, and Kathakali, the dance drama form of Kerala.Kochi organizes a biennial international contemporary art exhibition called the Kochi Muziris Biennale for all art enthusiasts.Cochin is also home to a group of lagoons and islands interconnected by ferries. In fact, Willingdon Island in Kochi is one of the largest human-made islands in India. Officially home to the southern command of the Indian Navy, Kochi has an active naval base and an air squadron of the Indian Navy. ",
+            "photograph": "https://www.holidify.com/images/bgImages/KOCHI.jpg"
+        },
+        {
+            "id":6 ,
+            "name": "Vagamon",
+            "BestTime":"Throughout the year",
+            "district":"Kottayam",
+            "description":"Located near Kottayam-Idukki Border, Wagamon, popularly known as Vagamon, is a quiet offbeat hill station in Kerala. With a pleasant climate throughout the year, this breathtaking tourist spot has meandering rivulets and lush green hills surrounding it. The tea garden, pine forests, waterfalls,etc",
+            "photograph": "https://www.india.com/wp-content/uploads/2019/02/Vagamon.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Bekal",
+            "BestTime":" October to March",
+            "district":"Kasargod",
+            "description":"Located on the west of the Malabar coastline, Bekal is a small town in the Kasargod district of Kerala. It is famous for its beaches, backwaters, forts and some tourists spots. Bekal is home to the largest fortress in Kerala. It's one of the primary landmarks of Kasargod district.",
+            "photograph": "https://www.holidify.com/images/bgImages/BEKAL.jpg"
+        },
+        {
+            "id":8 ,
+            "name": "Nilambur",
+            "BestTime":"October to March",
+            "district":"Malappuram",
+            "description":"Enriched with raw nature, a unique blend of culture, exquisite art forms and shadows of colonial rule, Nilambur is located in Malappuram District of Kerala. Nestled at the bank of Chaliyar River in proximity to Nilgiri Range, this small town is popularly known as 'Land of Teak Plantations'.",
+            "photograph": "https://www.holidify.com/images/bgImages/NILAMBUR.jpg"
+        },
+        {
+            "id":9 ,
+            "name": "Kalpetta",
+            "BestTime":"October to March",
+            "district":"Wayanad",
+            "description":"Kalpetta is a quaint town with a backdrop of majestic hills lurking in the shadows, lush green surroundings, fresh air and picturesque beauty. Housed in the Wayanad District of Kerala, at a height of 780 m above the sea level, Kalpetta is a perfect place for nature lovers as well as honeymooners.",
+            "photograph": "https://www.holidify.com/images/bgImages/KALPETTA.jpg"
+        }
+    ]
+}
